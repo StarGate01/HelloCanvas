@@ -1,0 +1,4 @@
+HelloCanvas
+===========
+
+PhoneGap Canvas Test
