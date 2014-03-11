@@ -1,0 +1,14 @@
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\com.phonegap.hellocanvas.dll
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\com.phonegap.hellocanvas.pdb
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\com.phonegap.hellocanvas.g.resources
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\com.phonegap.hellocanvas.dll
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\com.phonegap.hellocanvas.pdb
+C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\XapCacheFile.xml

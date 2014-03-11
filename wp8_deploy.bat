@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Tools\XAP Deployment\XapDeployCmd.exe" /installlaunch "platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" /targetdevice:de
