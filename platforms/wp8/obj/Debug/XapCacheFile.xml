@@ -1,56 +1,39 @@
-﻿<xapCache source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11.03.2014 22:10:46">
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\com.phonegap.hellocanvas.dll" archivePath="com.phonegap.hellocanvas.dll" lastWriteTime="11.03.2014 22:10:45" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="11.03.2014 22:10:42" />
+﻿<xapCache source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12.03.2014 19:00:57">
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\obj\Debug\com.phonegap.hellocanvas.dll" archivePath="com.phonegap.hellocanvas.dll" lastWriteTime="12.03.2014 19:00:56" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="12.03.2014 19:00:53" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="05.03.2014 20:57:56" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="05.03.2014 20:57:56" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="05.03.2014 20:57:56" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="05.03.2014 20:57:56" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="05.03.2014 20:57:56" />
   <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="05.03.2014 20:57:56" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="05.03.2014 20:57:57" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\config.xml" archivePath="www\config.xml" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\icon.png" archivePath="www\icon.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\Game\Game.js" archivePath="www\js\Game\Game.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\jquery-2.1.0.min.js" archivePath="www\js\jquery-2.1.0.min.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\jquery.alltouch.js" archivePath="www\js\jquery.alltouch.js" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\phonegap.js" archivePath="www\phonegap.js" lastWriteTime="11.03.2014 22:10:43" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-36-ldpi.png" archivePath="www\res\icon\android\icon-36-ldpi.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-48-mdpi.png" archivePath="www\res\icon\android\icon-48-mdpi.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-72-hdpi.png" archivePath="www\res\icon\android\icon-72-hdpi.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-96-xhdpi.png" archivePath="www\res\icon\android\icon-96-xhdpi.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-57-2x.png" archivePath="www\res\icon\ios\icon-57-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-57.png" archivePath="www\res\icon\ios\icon-57.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-72-2x.png" archivePath="www\res\icon\ios\icon-72-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-72.png" archivePath="www\res\icon\ios\icon-72.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-173-tile.png" archivePath="www\res\icon\windows-phone\icon-173-tile.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-48.png" archivePath="www\res\icon\windows-phone\icon-48.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-62-tile.png" archivePath="www\res\icon\windows-phone\icon-62-tile.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-hdpi-landscape.png" archivePath="www\res\screen\android\screen-hdpi-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-hdpi-portrait.png" archivePath="www\res\screen\android\screen-hdpi-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-ldpi-landscape.png" archivePath="www\res\screen\android\screen-ldpi-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-ldpi-portrait.png" archivePath="www\res\screen\android\screen-ldpi-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-mdpi-landscape.png" archivePath="www\res\screen\android\screen-mdpi-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-mdpi-portrait.png" archivePath="www\res\screen\android\screen-mdpi-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-xhdpi-landscape.png" archivePath="www\res\screen\android\screen-xhdpi-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\android\screen-xhdpi-portrait.png" archivePath="www\res\screen\android\screen-xhdpi-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-ipad-landscape-2x.png" archivePath="www\res\screen\ios\screen-ipad-landscape-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-ipad-landscape.png" archivePath="www\res\screen\ios\screen-ipad-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-ipad-portrait-2x.png" archivePath="www\res\screen\ios\screen-ipad-portrait-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-ipad-portrait.png" archivePath="www\res\screen\ios\screen-ipad-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-iphone-landscape-2x.png" archivePath="www\res\screen\ios\screen-iphone-landscape-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-iphone-landscape.png" archivePath="www\res\screen\ios\screen-iphone-landscape.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-iphone-portrait-2x.png" archivePath="www\res\screen\ios\screen-iphone-portrait-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-iphone-portrait-568h-2x.png" archivePath="www\res\screen\ios\screen-iphone-portrait-568h-2x.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\ios\screen-iphone-portrait.png" archivePath="www\res\screen\ios\screen-iphone-portrait.png" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\screen\windows-phone\screen-portrait.jpg" archivePath="www\res\screen\windows-phone\screen-portrait.jpg" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\spec.html" archivePath="www\spec.html" lastWriteTime="11.03.2014 22:10:42" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11.03.2014 22:10:45" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="05.03.2014 20:57:56" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="05.03.2014 20:57:56" />
-  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.03.2014 22:10:46" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12.03.2014 18:49:29" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\config.xml" archivePath="www\config.xml" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\icon.png" archivePath="www\icon.png" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\Game\Game.js" archivePath="www\js\Game\Game.js" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="12.03.2014 19:00:52" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\jquery-2.1.0.min.js" archivePath="www\js\jquery-2.1.0.min.js" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\js\jquery.alltouch.js" archivePath="www\js\jquery.alltouch.js" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\phonegap.js" archivePath="www\phonegap.js" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-36-ldpi.png" archivePath="www\res\icon\android\icon-36-ldpi.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-48-mdpi.png" archivePath="www\res\icon\android\icon-48-mdpi.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-72-hdpi.png" archivePath="www\res\icon\android\icon-72-hdpi.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\android\icon-96-xhdpi.png" archivePath="www\res\icon\android\icon-96-xhdpi.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-57-2x.png" archivePath="www\res\icon\ios\icon-57-2x.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-57.png" archivePath="www\res\icon\ios\icon-57.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-72-2x.png" archivePath="www\res\icon\ios\icon-72-2x.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\ios\icon-72.png" archivePath="www\res\icon\ios\icon-72.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-173-tile.png" archivePath="www\res\icon\windows-phone\icon-173-tile.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-48.png" archivePath="www\res\icon\windows-phone\icon-48.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\icon\windows-phone\icon-62-tile.png" archivePath="www\res\icon\windows-phone\icon-62-tile.png" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\res\SplashScreenImage.jpg" archivePath="www\res\SplashScreenImage.jpg" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\www\spec.html" archivePath="www\spec.html" lastWriteTime="12.03.2014 19:00:53" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12.03.2014 19:00:57" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12.03.2014 18:27:35" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="12.03.2014 18:27:03" />
+  <file source="C:\Users\Christoph\Documents\GitHub\HelloCanvas\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12.03.2014 19:00:57" />
 </xapCache>

@@ -265,58 +265,7 @@
         <Content Include="www\res\icon\windows-phone\icon-62-tile.png" />
     </ItemGroup>
     <ItemGroup>
-        <Content Include="www\res\screen\android\screen-hdpi-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-hdpi-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-ldpi-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-ldpi-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-mdpi-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-mdpi-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-xhdpi-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\android\screen-xhdpi-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-ipad-landscape-2x.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-ipad-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-ipad-portrait-2x.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-ipad-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-iphone-landscape-2x.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-iphone-landscape.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-iphone-portrait-2x.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-iphone-portrait-568h-2x.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\ios\screen-iphone-portrait.png" />
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="www\res\screen\windows-phone\screen-portrait.jpg" />
+        <Content Include="www\res\SplashScreenImage.jpg" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\spec.html" />

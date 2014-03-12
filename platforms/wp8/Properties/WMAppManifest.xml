@@ -4,7 +4,7 @@
     <Languages xmlns="">
         <Language code="en-US" />
     </Languages>
-    <App Author="HelloCanvas author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{18CDC392-D4B5-4976-B18F-3BB684DE514D}" Publisher="HelloCanvas" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="HelloCanvas" Version="1.0.0" xmlns="">
+    <App Author="HelloCanvas author" BitsPerPixel="32" Description="HTML5 canvas test" Genre="apps.normal" ProductID="{18CDC392-D4B5-4976-B18F-3BB684DE514D}" Publisher="HelloCanvas" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="HelloCanvas" Version="1.0.0" xmlns="">
         <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
         <Capabilities>
             <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />

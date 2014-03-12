@@ -11,7 +11,9 @@ Game = function(canvas, fps) {
 		this.height = $(window).height();
 		this.ctx = this.canvas[0].getContext("2d");
 		this.ticks = 0;
-		callback();
+		this.bgimg = new Image;
+		this.bgimg.src = "res/SplashScreenImage.jpg";
+		this.bgimg.onload = function(){ callback(); };
 	};
 	this.start = function()	{
 		requestAnimationFrame(self.tick);
@@ -24,6 +26,7 @@ Game = function(canvas, fps) {
 	this.render = function() {
 		self.ctx.fillStyle = '#000000';
 		self.ctx.fillRect(0, 0, self.width, self.height);
+		self.ctx.drawImage(self.bgimg, 0, 0, self.width, self.height);
 		var fa = 4;
 		for(var i=0; i<self.height/fa; i++)
 		{
